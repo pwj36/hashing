@@ -1,5 +1,5 @@
 # Hashing 🔑
-This repository implements two popular hashing techniques used to handle collisions in hash tables: Double Hashing and Separate Chaining.
+This repository implements two hashing techniques used to handle collisions in hash tables: Double Hashing and Separate Chaining.
 ## 🖥️ Technologies Used
 - Programming Language: Java
 - Eclipse IDE
